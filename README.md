@@ -13,16 +13,16 @@ proteus flutter project tools
 2. 指定工程名称
 
     ```bash
-    sh proteus_cli.sh -n PokrraGame
+    sh proteus_cli.sh -n xxxx
     ```
-    这将在当前目录创建 PokrraGame 项目。
+    这将在当前目录创建 xxxx 项目。
 
 3. 指定工程名称和存放目录
 
     ```bash
-    sh proteus_cli.sh -n PokrraGame -d ~/Projects
+    sh proteus_cli.sh -n xxxx -d ~/Projects
     ```
-    这将在 `~/Projects` 目录下创建 PokrraGame 项目。
+    这将在 `~/Projects` 目录下创建 xxxx 项目。
 
 
 
